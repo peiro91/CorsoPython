@@ -1,0 +1,20 @@
+numero = 1
+while numero <= 10:
+    print(numero)
+    numero += 1
+
+numero = 0
+while numero < 10:
+    numero += 1
+    print(numero)
+
+numero_segreto = 42
+while True:
+    numero_utente = int(input("indovina numero tra 0 e 100\n"))
+    if numero_utente == numero_segreto:
+        print("hai indovinato")
+        break
+    elif numero_utente < numero_segreto:
+        print("troppo basso")
+    else:
+        print("troppo alto")
