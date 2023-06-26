@@ -1,0 +1,37 @@
+lista = [12, "ciao", "a",True]
+
+print(dir(lista))
+print(lista[0])
+lista[1] = "evviva"
+print(lista)
+
+lista2 = [True,"ciao",1,"b"]
+for e in lista2:
+    print(e)
+
+lista3 = [1,2,6,45,5,7]
+
+for e in range(len(lista3)):
+    lista3[e] = lista3[e]*2
+
+print(lista3)
+
+l1 = ["Pierporz",1, "A"]
+l2 = ["Hello",3]
+
+print(l1+l2)
+print(l1*3)
+l1.append("ultimo elemnto")
+print(l1)
+l1.append(l2)
+print(l1)
+l3 = ["Ciao","Banana","albero","Zagabria"]
+l3.sort()
+print(l3)
+print(l3.pop())
+print(l3)
+l3.pop(0)
+print(l3)
+l4 = [1,1,2,3,1]
+l4.remove(1)
+print(l4)
