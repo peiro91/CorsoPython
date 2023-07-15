@@ -14,3 +14,4 @@ playlist completa: https://www.youtube.com/watch?v=WdUMQPmpp0o&list=PLPZX7dfqWSW
 08. Ciclo for continue e funzione range() - https://www.youtube.com/watch?v=Mqn241JM0Ew
 09. Funzioni - https://www.youtube.com/watch?v=On-P_Wv3OvQ
 10. Stringhe - https://www.youtube.com/watch?v=KBzNKKWLVAg
+11. Liste - https://www.youtube.com/watch?v=pa9cKovtdnc
