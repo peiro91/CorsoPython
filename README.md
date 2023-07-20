@@ -15,3 +15,4 @@ playlist completa: https://www.youtube.com/watch?v=WdUMQPmpp0o&list=PLPZX7dfqWSW
 09. Funzioni - https://www.youtube.com/watch?v=On-P_Wv3OvQ
 10. Stringhe - https://www.youtube.com/watch?v=KBzNKKWLVAg
 11. Liste - https://www.youtube.com/watch?v=pa9cKovtdnc
+12. File - https://www.youtube.com/watch?v=AZlDcXpbEiw
