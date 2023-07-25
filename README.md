@@ -16,3 +16,4 @@ playlist completa: https://www.youtube.com/watch?v=WdUMQPmpp0o&list=PLPZX7dfqWSW
 10. Stringhe - https://www.youtube.com/watch?v=KBzNKKWLVAg
 11. Liste - https://www.youtube.com/watch?v=pa9cKovtdnc
 12. File - https://www.youtube.com/watch?v=AZlDcXpbEiw
+13. Esercizio Finale - https://www.youtube.com/watch?v=51v6X5IEy6E
